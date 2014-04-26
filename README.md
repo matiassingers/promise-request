@@ -1,5 +1,6 @@
 # promise-request
 > Simple promise wrapper for [`request`](https://github.com/mikeal/request)
+[![NPM version](https://badge.fury.io/js/promise-request.svg)](https://www.npmjs.org/package/promise-request)
 
 ## Installation
 
